@@ -1,2 +1,12 @@
 
 /* Your CSS Code here. */
+body{
+	ul{
+		li{
+			.img{
+				width="200px"
+				height="200px"
+			}
+		}
+	}
+}
